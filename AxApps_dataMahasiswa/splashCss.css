@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0;
+	background-color:#00CCCC;
+	font-family:"Segoe UI", "Trebuchet MS", Verdana;
+}
+div#titleSplash{
+	margin-top:100px;
+	font-size:72px;
+}
+button#btnAxApps{
+	font-size:40px;
+	margin:30px;
+	padding:20px;
+	cursor:pointer;
+	color: #999;
+}
+button#btnAxApps:hover{
+	color:#444;
+}
+
+div#sign{
+	width:100%;
+	color:#E8EEFF;
+	font-size:16px;
+	position:relative;
+	padding-top:20px;
+	bottom:30px;
+	text-align:center;
+}
